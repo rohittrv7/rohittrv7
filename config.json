@@ -1,0 +1,26 @@
+{
+  "username": "rohittrv7",
+  "name": "Rohit Kumar",
+  "initials": "RK",
+  "availability": "OPEN TO FREELANCE",
+  "roles": [
+    "Website · Backend · App Developer",
+    "React Native · TypeScript · Node.js",
+    "Available for freelance projects",
+    "Building apps at buildmyapp.store"
+  ],
+  "badge": {
+    "line1": "WEB · BACKEND",
+    "line2": "& APP DEVELOPER",
+    "status": "● OPEN TO FREELANCE"
+  },
+  "orbit": ["TypeScript", "JavaScript", "React", "Node.js", "Dart", "Flutter", "HTML", "CSS"],
+  "tech": {
+    "LANGUAGES": ["TypeScript", "JavaScript", "Dart", "HTML", "CSS", "C++"],
+    "MOBILE APPS": ["React Native", "Expo", "Flutter"],
+    "WEBSITES / FRONTEND": ["React", "Next.js", "Tailwind CSS"],
+    "BACKEND & DATABASE": ["Node.js", "Express", "REST APIs", "Socket.IO", "MongoDB", "Firebase", "PostgreSQL"],
+    "TOOLS & DEPLOY": ["Git", "GitHub Actions", "Docker", "Vercel", "Postman", "VS Code", "Figma"]
+  },
+  "maxPinned": 6
+}
