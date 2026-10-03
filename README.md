@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" alt="Rohit Kumar hero" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--rohit.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rohit.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--rohit.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](http://portfoliorv-rohit.vercel.app/)
 [![BuildMyApp](https://img.shields.io/badge/Store-buildmyapp.store-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.buildmyapp.store/)
 ![Profile views](https://komarev.com/ghpvc/?username=rohittrv7&color=a855f7&style=for-the-badge)
 
@@ -30,7 +30,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohittrv7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020" />
 
 ### 🤝 Let's build something together — open for freelance
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge)](https://portfolio-rohit.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge)](http://portfoliorv-rohit.vercel.app/)
 [![Website](https://img.shields.io/badge/buildmyapp.store-ec4899?style=for-the-badge)](https://www.buildmyapp.store/)
 
 *Code is my art. Apps are my superpower.*

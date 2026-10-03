@@ -14,13 +14,13 @@
     "line2": "& APP DEVELOPER",
     "status": "● OPEN TO FREELANCE"
   },
-  "orbit": ["TypeScript", "JavaScript", "React", "Node.js", "Dart", "Flutter", "HTML", "CSS"],
+  "orbit": ["TypeScript", "JavaScript", "React", "Node.js", "HTML", "CSS"],
   "tech": {
-    "LANGUAGES": ["TypeScript", "JavaScript", "Dart", "HTML", "CSS", "C++"],
-    "MOBILE APPS": ["React Native", "Expo", "Flutter"],
-    "WEBSITES / FRONTEND": ["React", "Next.js", "Tailwind CSS"],
-    "BACKEND & DATABASE": ["Node.js", "Express", "REST APIs", "Socket.IO", "MongoDB", "Firebase", "PostgreSQL"],
-    "TOOLS & DEPLOY": ["Git", "GitHub Actions", "Docker", "Vercel", "Postman", "VS Code", "Figma"]
+    "LANGUAGES": ["TypeScript", "JavaScript", "HTML", "CSS"],
+    "MOBILE APPS": ["React Native", "Expo"],
+    "WEBSITES / FRONTEND": ["React", "Next.js", "Tailwind CSS", "Bootstrap", "shadcn/ui", "Framer Motion"],
+    "BACKEND & DATABASE": ["Node.js", "Express", "nest.js", "REST APIs", "Socket.IO", "MongoDB", "Firebase", "PostgreSQL"],
+    "TOOLS & DEPLOY": ["Git", "GitHub Actions", "Vercel", "Postman", "VS Code", "hostinger", "Render", "Netlify", "aws"]
   },
   "maxPinned": 6
 }
