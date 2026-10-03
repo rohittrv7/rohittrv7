@@ -17,7 +17,7 @@
 <!--PINNED_LINKS:START-->
 <div align="center">
 
-🔗 <a href="https://github.com/rohittrv7/buildmyapp">buildmyapp</a> &nbsp;·&nbsp; <a href="https://github.com/rohittrv7/chatting-app">chatting-app</a> &nbsp;·&nbsp; <a href="https://github.com/rohittrv7/eduApp">eduApp</a> &nbsp;·&nbsp; <a href="https://github.com/rohittrv7/digital-board">digital-board</a>
+🔗 <a href="https://github.com/rohittrv7/streakly">streakly</a> &nbsp;·&nbsp; <a href="https://github.com/rohittrv7/digital-board">digital-board</a> &nbsp;·&nbsp; <a href="https://github.com/rohittrv7/chatting-app">chatting-app</a> &nbsp;·&nbsp; <a href="https://github.com/rohittrv7/eduApp">eduApp</a> &nbsp;·&nbsp; <a href="https://github.com/rohittrv7/buildmyapp">buildmyapp</a>
 
 </div>
 <!--PINNED_LINKS:END-->
